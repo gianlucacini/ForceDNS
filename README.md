@@ -1,3 +1,5 @@
+![forcedns](https://user-images.githubusercontent.com/20477808/113490510-bc656b80-94ca-11eb-9981-53b646323c05.png)
+
 # ForceDNS
 Unplug is program that forces your pc to browse the web with a custom DNS.
 
@@ -20,13 +22,13 @@ it's like a phonebook but for websites.
 
 Let's say you want to call your friend Bob. Unless you know his number, you'll have to use a phonebook to look up his name and thus find his phone number. A dns does exactly the same thing, but with website names instead of people's names.
 
-Every device that connects to the internet uses a dns, but most people don't know this since the system works seamlessly.
+Every time you type a website into your browser's search bar, it loads because your dns is able to find the corresponding network address in a huge database online.
 
 ## Benefits of using a custom dns over a standard one
 
 there are many companies providing both free and paid dns servers, so the benefits can be different depending on your choice.
 
-- Cloudflare's 1.1.1.1 DNS offers a free dns with a faster and more privacy friendlier internet experience
+- Cloudflare's 1.1.1.1 DNS offers a free dns with a faster and more privacy-friendly internet experience
 - OpenDNS FamilyShield offers a free dns that blocks website domains that are categorized as: Tasteless, Proxy/Anonymizer, Sexuality and Pornography
 
 some dns servers are also able to:
@@ -47,6 +49,8 @@ and download the latest version of the installer.
 After the installation double click on the newly created icon "ForceDNS Settings"
 
 ## How to uninstall
+
+![uninstall-forcedns](https://user-images.githubusercontent.com/20477808/113490515-c4bda680-94ca-11eb-8b65-329c21940358.png)
 
 By design, you will find it difficult to uninstall the app, especially while it's running.
 
