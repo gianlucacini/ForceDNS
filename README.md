@@ -1,26 +1,57 @@
-# Unplug By QuitSurf.com
-Unplug is an internet blocker for windows computers.
+# ForceDNS
+Unplug is program that forces your pc to browse the web with a custom DNS.
 
 ## This app might help you if:
-- You are struggling with any internet related addictions (online gaming, gambling, pornography, video streaming)
-- You waste hours of time a day mindlessly sufring the web instead of doing something more productive
-- You work too much and you'd like to reach a healthy work/life balance
-- Or you simply would like to gain more control over your internet use
+- You are a parent and would like to restrict the access of certain websites to your children.
+- You abuse (or are addicted to) internet pornography and you would like to stop.
 
 ## Features
-- Blocks internet and every other outbound connection for a custom timespan (e.g. from 8AM to 5PM or from 10PM to 8AM)
-- "Lock" your settings for 1 or more days
-- Hard to bypass, but only if you want
+- Forces your network adapter card to use a custom DNS until a set date and time
+- "Locks" your settings for the selected date and time
+- Hard to bypass even for a user with admin privileges
 
-## Install
-go here or here
+## What the hell is a DNS 😕
 
-## Instructions
-click here and here
+Computers have no idea what google.com or any other website name means. All they understand is numbers and network addresses. 
 
-## Why is this free
-I decided to make it free and open source for marketing purposes and also because there are not enough features to justify even a small price. 
-But most of all because i am obviously a selfless god who ascended to earth only to help people like you and don't need food or money to survive.
-jk now if you find this app helpful would you please follow me on social media and subscribe to my mailing list thanks
+A dns is a service that "translates" google.com into a network address, so that your browser can find the page and load it on your computer.
 
-## Contribute
+it's like a phonebook but for websites. 
+
+Let's say you want to call your friend Bob. Unless you know his number, you'll have to use a phonebook to look up his name and thus find his phone number. A dns does exactly the same thing, but with website names instead of people's names.
+
+Every device that connects to the internet uses a dns, but most people don't know this since the system works seamlessly.
+
+## Benefits of using a custom dns over a standard one
+
+there are many companies providing both free and paid dns servers, so the benefits can be different depending on your choice.
+
+- Cloudflare's 1.1.1.1 DNS offers a free dns with a faster and more privacy friendlier internet experience
+- OpenDNS FamilyShield offers a free dns that blocks website domains that are categorized as: Tasteless, Proxy/Anonymizer, Sexuality and Pornography
+
+some dns servers are also able to:
+- block ads 
+- offer protection against phishing
+- bypass censorship and geo-locked content.
+
+Paid dns servers offer more customization and more features.
+
+## How to Install
+
+Go to the relase page here 
+
+[Release Page](https://github.com/gianlucacini/ForceDNS/releases)
+
+and download the latest version of the installer. 
+
+After the installation double click on the newly created icon "ForceDNS Settings"
+
+## How to uninstall
+
+By design, you will find it difficult to uninstall the app, especially while it's running.
+
+You can uninstall ForceDNS only when the app is not running and by clicking the button Uninstall, like in the picture below.
+
+## Troubleshoot 
+
+if you find any bugs, please open an issue here on github and attach the .log file you'll find in your installation folder.
