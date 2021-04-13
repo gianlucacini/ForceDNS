@@ -1,4 +1,4 @@
-![forcedns](https://user-images.githubusercontent.com/20477808/113490510-bc656b80-94ca-11eb-9981-53b646323c05.png)
+![forcedns](https://user-images.githubusercontent.com/20477808/114583835-4909e980-9c82-11eb-86da-5bc3398c4729.png)
 
 # ForceDNS
 ForceDNS is program that forces your pc to browse the web with a custom DNS.
@@ -50,7 +50,7 @@ After the installation double click on the newly created icon "ForceDNS Settings
 
 ## How to uninstall
 
-![uninstall-forcedns](https://user-images.githubusercontent.com/20477808/113490515-c4bda680-94ca-11eb-8b65-329c21940358.png)
+![uninstall-forcedns](https://user-images.githubusercontent.com/20477808/114583869-51622480-9c82-11eb-8e90-f81fe9779010.png)
 
 By design, you will find it difficult to uninstall the app, especially while it's running.
 
