@@ -39,13 +39,13 @@
       </Directory>
     </Directory>
 
-    <Icon Id="qsicon.ico" SourceFile="qsicon.ico"/>
-    <Property Id="ARPPRODUCTICON" Value="qsicon.ico" />
+    <Icon Id="dns.ico" SourceFile="dns.ico"/>
+    <Property Id="ARPPRODUCTICON" Value="dns.ico" />
 
     <ComponentGroup Id="ProductComponents" Directory="INSTALLDIR">
 
-      <Component Id="qsicon.ico" Guid="{AC22121E-3017-4ACE-86EF-73158EF0A20D}" >
-        <File Id="qsicon.ico" Name="qsicon.ico" Source="qsicon.ico" KeyPath="yes" />
+      <Component Id="dns.ico" Guid="{AC22121E-3017-4ACE-86EF-73158EF0A20D}" >
+        <File Id="dns.ico" Name="dns.ico" Source="dns.ico" KeyPath="yes" />
       </Component>
       
       <!-- Exes-->

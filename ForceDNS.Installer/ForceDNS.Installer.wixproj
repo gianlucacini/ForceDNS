@@ -24,10 +24,9 @@
     <Compile Include="Product.wxs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="dns.ico" />
+    <Content Include="dns.png" />
     <Content Include="license.rtf" />
-    <Content Include="qsico16.ico" />
-    <Content Include="qsico64.png" />
-    <Content Include="qsicon.ico" />
   </ItemGroup>
   <ItemGroup>
     <WixExtension Include="WixUtilExtension">
