@@ -1,11 +1,11 @@
 ![forcedns](https://user-images.githubusercontent.com/20477808/114583835-4909e980-9c82-11eb-86da-5bc3398c4729.png)
 
 # ForceDNS
-ForceDNS is program that forces your pc to browse the web with a custom DNS.
+ForceDNS is a free, open source app that forces your pc to browse the web with a custom DNS.
 
 ## This app might help you if:
 - You are a parent and would like to restrict the access of certain websites to your children.
-- You abuse (or are addicted to) internet pornography and you would like to stop.
+- You have an internet related addiction (video streaming, gambling, pornography, compulsive shopping) and you would like to stop.
 
 ## Features
 - Forces your network adapter card to use a custom DNS until a set date and time
