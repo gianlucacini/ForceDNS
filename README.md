@@ -1,7 +1,7 @@
 ![forcedns](https://user-images.githubusercontent.com/20477808/113490510-bc656b80-94ca-11eb-9981-53b646323c05.png)
 
 # ForceDNS
-Unplug is program that forces your pc to browse the web with a custom DNS.
+ForceDNS is program that forces your pc to browse the web with a custom DNS.
 
 ## This app might help you if:
 - You are a parent and would like to restrict the access of certain websites to your children.
