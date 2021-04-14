@@ -1,5 +1,9 @@
 ![forcedns](https://user-images.githubusercontent.com/20477808/114583835-4909e980-9c82-11eb-86da-5bc3398c4729.png)
 
+Video tutorial here
+
+https://www.youtube.com/watch?v=7jko4yOmCnk
+
 # ForceDNS
 ForceDNS is a free, open source app that forces your pc to browse the web with a custom DNS.
 
